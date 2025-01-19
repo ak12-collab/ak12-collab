@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak12-collab&label=Profile%20views&color=0e75b6&style=flat" alt="ak12-collab" /> </p>
 
-- 🔭 I’m currently learning  **Data science and Financial Markets**
+- 🔭 Currently learning
+      Data Science: Applying machine learning and statistical techniques to derive insights.
+      Trading Strategies: Exploring quantitative approaches and risk management practices.
+      DevOps Skills: Building expertise in automation, CI/CD, and cloud infrastructure.
 
-- 🌱 I’m currently learning **Machine learning libraries**
+- 🌱 Resources I'm Exploring:
+      Machine learning Libraries and AI
+      Technical Analysis of Financial Markets
+      ICT 2022 Mentorship & Core Content
 
 - 👯 I’m looking to collaborate on **Quant Projects**
 

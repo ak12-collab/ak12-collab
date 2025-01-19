@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak12-collab&label=Profile%20views&color=0e75b6&style=flat" alt="ak12-collab" /> </p>
 
-- 🔭 I’m currently learning on **Data science and Financial Markets**
+- 🔭 I’m currently learning  **Data science and Financial Markets**
 
 - 🌱 I’m currently learning **Machine learning libraries**
 

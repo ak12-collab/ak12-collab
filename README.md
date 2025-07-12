@@ -13,7 +13,7 @@
       Technical Analysis of Financial Markets
       ICT 2022 Mentorship & Core Content
 
-- 👯 I’m looking to collaborate on **Quant Projects**
+- 👯 I’m looking to collaborate on **AI Projects**
 
 - 📫 How to reach me **dusane.a@yahoo.com**
 

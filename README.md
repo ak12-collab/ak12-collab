@@ -1,28 +1,72 @@
-<h1 align="center">Hi 👋, I'm Akshay Dusane from India</h1>
-<h3 align="center">💼 Aspirirng Data Engineer</h3>
+<h1 align="center">Hi 👋, I'm Akshay Dusane</h1>
+<h3 align="center">Aspiring Data Engineer | Cloud Data Platforms | Distributed Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak12-collab&label=Profile%20views&color=0e75b6&style=flat" alt="ak12-collab" /> </p>
-
-- 🔭 Currently learning
-      Data Science: Applying machine learning and statistical techniques to derive insights.
-      Trading Strategies: Exploring quantitative approaches and risk management practices.
-      DevOps Skills: Building expertise in automation, CI/CD, and cloud infrastructure.
-
-- 🌱 Resources I'm Exploring:
-      Machine learning Libraries and AI
-      Technical Analysis of Financial Markets
-      ICT 2022 Mentorship & Core Content
-
-- 👯 I’m looking to collaborate on **AI Projects**
-
-- 📫 How to reach me **dusane.a@yahoo.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akshay-dusane-7066b124b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-dusane-7066b124b" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ak12-collab&label=Profile%20views&color=0e75b6&style=flat" alt="ak12-collab" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<hr/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak12-collab&show_icons=true&locale=en&layout=compact" alt="ak12-collab" /></p>
+### Professional Summary
+
+Aspiring **Data Engineer** with a strong foundation in **Python, Java, SQL, and distributed data processing**. Focused on building **scalable data pipelines**, **cloud-native architectures**, and **analytics-ready data platforms** aligned with production and performance requirements.
+
+---
+
+### Core Technical Skills
+
+**Programming:** Python, Java  
+**Data Engineering:** SQL, PySpark, ETL/ELT, Data Modeling  
+**Data Analysis:** NumPy, Pandas, Matplotlib, Seaborn  
+**Machine Learning:** ML fundamentals, scikit-learn  
+**Cloud:** AWS, Azure  
+**BI & Analytics:** Power BI  
+**Computer Science:** Data Structures & Algorithms, System Design, Operating Systems, Computer Networks  
+
+---
+
+### What I’m Actively Working On
+
+- Designing end-to-end **data pipelines** using Python, SQL, and PySpark  
+- Applying **system design principles** to scalable data platforms  
+- Building **cloud-aware data solutions** on AWS and Azure  
+- Strengthening **DSA and backend fundamentals** for large-scale systems  
+
+---
+
+### Collaboration
+
+Open to **Data Engineering, Cloud, and ML-enabled data platform projects**.
+
+---
+
+### 📫 Contact
+
+- **Email:** dusane.a@yahoo.com  
+- **LinkedIn:**  
+  <a href="https://www.linkedin.com/in/akshey-dusane-7066b124b" target="_blank">
+    linkedin.com/in/akshey-dusane-7066b124b
+  </a>
+
+---
+
+<h3 align="left">🛠 Languages & Tools</h3>
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ak12-collab&show_icons=true&locale=en&layout=compact" alt="ak12-collab" />
+</p>

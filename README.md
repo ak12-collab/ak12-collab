@@ -15,7 +15,7 @@ Currently expanding into **Data Science** exploring machine learning, statistica
 and predictive analytics to move from describing what happened to predicting what's next.
 
 Focused on projects that mirror real-world business problems in **finance, operations,
-and marketing analytics** not just technical exercises.
+and logistics analytics** not just technical exercises.
 
 ---
 
@@ -25,24 +25,60 @@ and marketing analytics** not just technical exercises.
 **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
 **BI & Visualization:** Power BI (DAX, Heat Maps, KPI Cards), Excel (Pivot Tables, Waterfall Charts, Conditional Formatting)  
 **Finance Analytics:** Budget Variance Analysis, FP&A Reporting, KPI Dashboards  
+**Logistics Analytics:** SLA Analysis, Route Diagnostics, Capacity Planning, Operational KPIs  
 **Currently Learning — Data Science:** scikit-learn, Statistical Modeling, Regression, Classification, Clustering  
 **Statistics:** Descriptive & Inferential Statistics, Hypothesis Testing  
-**Tools:** Git, GitHub, Jupyter Notebook, VS Code  
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code, MySQL Workbench  
 **Cloud (Basics):** AWS, Azure  
 
 ---
 
 ### 🚀 What I'm Currently Working On
 
-- Building **industry-grade analytics projects** across Finance, Marketing, and Operations  
+- Building **industry-grade analytics projects** across Finance, Logistics, and Operations  
 - Creating **executive-level Power BI dashboards** with DAX for C-suite reporting  
-- Learning **machine learning fundamentals** — regression, classification, model evaluation  
+- Learning **machine learning fundamentals** regression, classification, model evaluation  
 - Transitioning analytical thinking from **descriptive → predictive analytics**  
 - Building a portfolio that stands out for **Data Analyst and Junior Data Scientist** roles  
 
 ---
 
 ### 📁 Featured Projects
+
+---
+
+#### 🚚 [Last-Mile Delivery Failure Diagnostics System](https://github.com/ak12-collab/last-mile-delivery-diagnostics)
+> Python · MySQL · Power BI · Advanced SQL (CTEs, Window Functions)
+
+SQL-driven delivery failure diagnostics system analyzing **3.5M+ NYC taxi records**
+reframed as a last-mile delivery network. Built an end-to-end pipeline from raw
+parquet ingestion to executive Power BI dashboard identifying critical SLA failures
+across routes, zones, and time windows.
+
+**Scale:** 3,504,776 deliveries · 8 advanced SQL queries · 4-panel Power BI dashboard
+
+| 📈 Metric | 🔢 Value |
+|---|---|
+| On-time delivery rate | 81.66% |
+| Overall SLA breach rate | 18.34% |
+| Total SLA breaches | 642,723 |
+| Worst route | Route 76_140 100% breach rate |
+| Most overloaded zone | Zone 117  72.47% breach rate |
+| Worst time window | Thursday/Friday 3PM — 32%+ breach rate |
+
+**Key Insight:**
+> *"Last-mile delivery failures are not random they are concentrated in
+> predictable zones, routes, and time windows. Zones 117 and 86 alone
+> account for disproportionate breach volume. Targeted reallocation could
+> recover 15-20% on-time rate improvement."*
+
+**SQL techniques demonstrated:** RANK(), PERCENT_RANK(), NTILE(), CTEs,
+moving averages, window frames, CASE classification, percentile distribution
+
+**Skills demonstrated:** Large-scale data engineering · Advanced SQL · 
+Operational analytics · Executive dashboard design · Business recommendation writing
+
+---
 
 #### 💼 [Corporate Budget Variance & Executive Briefing System](https://github.com/ak12-collab/Budget-variance-executive-system)
 > Python · Excel · Power BI · PDF reporting
@@ -53,7 +89,7 @@ patterns, an Excel variance model with waterfall charts and drill-down, a 2-page
 Power BI dashboard with DAX measures and department heat map, and a CFO
 one-page summary PDF.
 
-**Key Insight discovered:**
+**Key Insight:**
 > *"Marketing overspent by 34% in Q3 while Operations underspent by 18% —
 > the net variance masked a structural reallocation problem invisible in
 > aggregate reporting."*
@@ -62,23 +98,24 @@ one-page summary PDF.
 
 ---
 
-*More projects coming soon — Finance ML, Customer Segmentation, Churn Prediction*
+*More projects coming soon Customer Segmentation, Churn Prediction, Marketing Mix Modeling*
 
 ---
 
 ### 🎯 Target Roles
 
 - Data Analyst
-- Business Analyst
+- Business Analyst  
 - FP&A Analyst
+- Operations Analyst
 - Junior Data Scientist
 
 ---
 
 ### 🤝 Open To
 
-Collaborating on **analytics, finance, marketing, or ML projects** where data
-drives real business decisions — not just dashboards for the sake of dashboards.
+Collaborating on **analytics, finance, logistics, or ML projects** where data
+drives real business decisions not just dashboards for the sake of dashboards.
 
 ---
 

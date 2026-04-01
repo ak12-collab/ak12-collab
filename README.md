@@ -29,7 +29,7 @@ and logistics analytics** not just technical exercises.
 **Currently Learning — Data Science:** scikit-learn, Statistical Modeling, Regression, Classification, Clustering  
 **Statistics:** Descriptive & Inferential Statistics, Hypothesis Testing  
 **Tools:** Git, GitHub, Jupyter Notebook, VS Code, MySQL Workbench  
-**Cloud (Basics):** AWS, Azure  
+**Cloud (Basics):** Amazon web services.
 
 ---
 

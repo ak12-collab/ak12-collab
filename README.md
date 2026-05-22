@@ -1,193 +1,203 @@
-<h1 align="center">Hi 👋, I'm Akshay Dusane</h1>
-<h3 align="center">Data Analyst | Exploring Data Science | Python · SQL · Power BI · Excel</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ak12-collab&label=Profile%20views&color=0e75b6&style=flat" alt="ak12-collab" />
-</p>
+# Akshay Dusane
 
-<hr/>
+### AI & Data Analytics Engineer
+#### Building intelligent systems at the intersection of engineering, analytics, and AI.
 
-### 👨‍💼 Professional Summary
+<br/>
 
-**Data Analyst** with hands-on experience in **Python, SQL, Excel, and Power BI**,
-building end-to-end analytics solutions that turn raw data into executive-ready insights.
-Currently expanding into **Data Science** exploring machine learning, statistical modeling,
-and predictive analytics to move from describing what happened to predicting what's next.
+[![Profile Views](https://komarev.com/ghpvc/?username=ak12-collab&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/ak12-collab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-dusane-7066b124b)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dusane.a@yahoo.com)
 
-Focused on projects that mirror real-world business problems in **finance, operations,
-and logistics analytics** not just technical exercises.
+</div>
 
 ---
 
-### 🧠 Core Technical Skills
+## 🧑‍💻 About Me
 
-**Programming:** Python, SQL  
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-**BI & Visualization:** Power BI (DAX, Heat Maps, KPI Cards), Excel (Pivot Tables, Waterfall Charts, Conditional Formatting)  
-**Finance Analytics:** Budget Variance Analysis, FP&A Reporting, KPI Dashboards  
-**Logistics Analytics:** SLA Analysis, Route Diagnostics, Capacity Planning, Operational KPIs  
-**Currently Learning — Data Science:** scikit-learn, Statistical Modeling, Regression, Classification, Clustering  
-**Statistics:** Descriptive & Inferential Statistics, Hypothesis Testing  
-**Tools:** Git, GitHub, Jupyter Notebook, VS Code, MySQL Workbench  
-**Cloud (Basics):** Amazon web services.
+I design and build **data-driven, AI-powered systems** that tackle real operational and business challenges — not textbook exercises. My work spans the full stack of modern data engineering: from raw SQL analytics to production RAG pipelines and ML-powered automation.
 
----
-
-### 🚀 What I'm Currently Working On
-
-- Building **industry-grade analytics projects** across Finance, Logistics, and Operations  
-- Creating **executive-level Power BI dashboards** with DAX for C-suite reporting  
-- Learning **machine learning fundamentals** regression, classification, model evaluation  
-- Transitioning analytical thinking from **descriptive → predictive analytics**  
-- Building a portfolio that stands out for **Data Analyst and Junior Data Scientist** roles  
+```python
+akshay = {
+    "focus"     : ["AI Engineering", "Data Analytics", "ML Systems", "Backend APIs"],
+    "currently" : ["MLOps", "AI Infrastructure", "Cloud-Native Systems"],
+    "approach"  : "Production-style engineering with real business context",
+    "open_to"   : ["Collaborations", "AI/ML Roles", "Analytics Engineering"]
+}
+```
 
 ---
 
-### 📁 Featured Projects
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**AI & Machine Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-#### 🚚 [Last-Mile Delivery Failure Diagnostics System](https://github.com/ak12-collab/last-mile-delivery-diagnostics)
-> Python · MySQL · Power BI · Advanced SQL (CTEs, Window Functions)
+## 🔥 Featured Projects
 
-SQL-driven delivery failure diagnostics system analyzing **3.5M+ NYC taxi records**
-reframed as a last-mile delivery network. Built an end-to-end pipeline from raw
-parquet ingestion to executive Power BI dashboard identifying critical SLA failures
-across routes, zones, and time windows.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Scale:** 3,504,776 deliveries · 8 advanced SQL queries · 4-panel Power BI dashboard
+### ☁️ [Autonomous-FinOps](https://github.com/ak12-collab/Autonomous-FinOps)
+**AI-Powered Cloud Cost Optimization**
 
-| 📈 Metric | 🔢 Value |
-|---|---|
-| On-time delivery rate | 81.66% |
-| Overall SLA breach rate | 18.34% |
-| Total SLA breaches | 642,723 |
-| Worst route | Route 76_140 100% breach rate |
-| Most overloaded zone | Zone 117  72.47% breach rate |
-| Worst time window | Thursday/Friday 3PM — 32%+ breach rate |
+Intelligent FinOps platform for detecting zombie infrastructure, anomalous spend, and forecasting cloud costs using ML and deep learning.
 
-**Key Insight:**
-> *"Last-mile delivery failures are not random they are concentrated in
-> predictable zones, routes, and time windows. Zones 117 and 86 alone
-> account for disproportionate breach volume. Targeted reallocation could
-> recover 15-20% on-time rate improvement."*
+**Highlights:**
+- 🔍 Ensemble Isolation Forest anomaly detection
+- 📈 LSTM-based cloud spend forecasting
+- ✅ Confidence-governance validation layer
+- 📊 Flask financial visibility dashboard
 
-**SQL techniques demonstrated:** RANK(), PERCENT_RANK(), NTILE(), CTEs,
-moving averages, window frames, CASE classification, percentile distribution
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-**Skills demonstrated:** Large-scale data engineering · Advanced SQL · 
-Operational analytics · Executive dashboard design · Business recommendation writing
+</td>
+<td width="50%" valign="top">
 
----
+### 🧠 [Documind-AI-RAG-API](https://github.com/ak12-collab/Documind-AI-RAG-API)
+**Production-Grade RAG Backend**
 
-#### 💼 [Corporate Budget Variance & Executive Briefing System](https://github.com/ak12-collab/Budget-variance-executive-system)
-> Python · Excel · Power BI · PDF reporting
+Fully offline RAG system for PDF ingestion, semantic embedding generation, and context-aware Q&A using local LLM inference.
 
-End-to-end FP&A reporting system replicating enterprise finance workflows at
-institutions like JPMC. Built a synthetic 288-row dataset with engineered variance
-patterns, an Excel variance model with waterfall charts and drill-down, a 2-page
-Power BI dashboard with DAX measures and department heat map, and a CFO
-one-page summary PDF.
+**Highlights:**
+- 📄 PDF ingestion & chunking pipeline
+- 🔍 Semantic vector search via ChromaDB
+- 🤖 Local LLM with Ollama + Mistral
+- 🔒 100% private — zero cloud dependencies
 
-**Key Insight:**
-> *"Marketing overspent by 34% in Q3 while Operations underspent by 18% —
-> the net variance masked a structural reallocation problem invisible in
-> aggregate reporting."*
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
 
-**Skills demonstrated:** Python data engineering · FP&A thinking · DAX · Executive communication
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🚚 [Last-Mile Delivery Diagnostics](https://github.com/ak12-collab/last-mile-delivery-diagnostics)
+**Operational Analytics at Scale**
 
-*More projects coming soon Customer Segmentation, Churn Prediction, Marketing Mix Modeling*
+Large-scale diagnostic system analyzing **3.5M+ delivery records** to surface SLA failures, overloaded routes, and bottlenecks.
 
----
+**Highlights:**
+- 🗄️ Advanced SQL: CTEs, Window Functions, NTILE
+- 📊 Executive Power BI dashboards
+- 🎯 High-risk delivery zone identification
 
-### 🎯 Target Roles
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-- Data Analyst
-- Business Analyst  
-- FP&A Analyst
-- Operations Analyst
-- Junior Data Scientist
+</td>
+<td width="50%" valign="top">
 
----
+### 💼 [Budget Variance & Executive Briefing](https://github.com/ak12-collab/Budget-variance-executive-system)
+**FP&A Analytics System**
 
-### 🤝 Open To
+Enterprise-style financial reporting system simulating CFO-level workflows with automated variance diagnostics and KPI dashboards.
 
-Collaborating on **analytics, finance, logistics, or ML projects** where data
-drives real business decisions not just dashboards for the sake of dashboards.
+**Highlights:**
+- 📉 Automated budget variance pipeline
+- 📊 DAX-powered executive KPI dashboards
+- 🗂️ Department-level variance heatmaps
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-### 📫 Contact
-
-- **Email:** dusane.a@yahoo.com
-- **LinkedIn:** [linkedin.com/in/akshey-dusane-7066b124b](https://www.linkedin.com/in/akshey-dusane-7066b124b)
-
----
-
-<h3 align="left">🛠 Current Stack</h3>
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="SQL"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" title="Matplotlib"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40" title="Power BI"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" height="40" title="Excel"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" title="Jupyter"/>
-  </a>
-</p>
-
-<h3 align="left">📚 Currently Exploring</h3>
-
-<p align="left">
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" title="scikit-learn"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" title="Seaborn"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/>
-  </a>
-  <a href="https://azure.microsoft.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" title="Azure"/>
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ak12-collab&show_icons=true&locale=en&layout=compact&theme=default" alt="ak12-collab" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ak12-collab&show_icons=true&locale=en&theme=default" alt="ak12-collab" />
-</p>
+<div align="center">
+
+<img width="49%" src="https://streak-stats.demolab.com?user=ak12-collab&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak12-collab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ak12-collab&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"The goal is to turn data into information, and information into insight."</i><br/>
-  <i>— Carly Fiorina</i>
-</p>
+## 📈 Currently Exploring
+
+<div align="center">
+
+`MLOps` &nbsp;·&nbsp; `Docker & CI/CD` &nbsp;·&nbsp; `Cloud-Native AI` &nbsp;·&nbsp; `Hybrid Search` &nbsp;·&nbsp; `AI Infrastructure` &nbsp;·&nbsp; `Backend System Design`
+
+</div>
+
+---
+
+## 🎯 Target Roles
+
+<div align="center">
+
+**AI Engineer** &nbsp;|&nbsp; **Data Analyst** &nbsp;|&nbsp; **Analytics Engineer** &nbsp;|&nbsp; **Junior ML Engineer** &nbsp;|&nbsp; **Backend AI Engineer** &nbsp;|&nbsp; **BI Engineer**
+
+</div>
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm actively looking to collaborate on projects involving:
+
+**AI & ML Systems** &nbsp;·&nbsp; **RAG Applications** &nbsp;·&nbsp; **FinOps Platforms** &nbsp;·&nbsp; **Analytics Engineering** &nbsp;·&nbsp; **Backend APIs** &nbsp;·&nbsp; **Data-Driven Operational Tools**
+
+---
+
+<div align="center">
+
+> *"Great systems are built where engineering, analytics, and intelligence intersect."*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-dusane-7066b124b)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dusane.a@yahoo.com)
+
+</div>
